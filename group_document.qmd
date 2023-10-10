@@ -15,6 +15,12 @@ hii
 2+2
 ```
 
+#### new section
+
+```{r}
+4+4
+```
+
 ### Navaneeth Kizhakkumbadan Pacha (s222486)
 
 ##### New feature
