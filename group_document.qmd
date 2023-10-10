@@ -1,6 +1,11 @@
 # Lab 7
 
 ### Sam (s236400)
+New analysis
+```{r}
+4*2
+```
+
 
 ### Emma (s193588)
 
