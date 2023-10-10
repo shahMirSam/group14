@@ -1,1 +1,15 @@
-Top 10 Data Science Languages of ALL Time
+Top 10 Data Science Languages of ALL Time:
+10. It is 
+9. Impossible
+8. to rank them
+7. Because
+6. programming is subjective
+5. and everyone
+4. has
+3. different
+2. tastes
+<<<<<<< HEAD
+1. C++
+=======
+1. Python
+>>>>>>> 85283ca3246b7f7462ab633085f92ac5f173d3e7
