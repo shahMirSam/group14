@@ -2,6 +2,12 @@
 
 ### Sam (s236400)
 
+New analysis
+
+```{r}
+4*2
+```
+
 ### Emma (s193588)
 
 hii
@@ -10,4 +16,12 @@ hii
 2+2
 ```
 
+#### new section
+
+```{r}
+4+4
+```
+
 ### Navaneeth Kizhakkumbadan Pacha (s222486)
+
+##### New feature
